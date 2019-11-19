@@ -3,12 +3,12 @@ Väriskaalaruno
 
 väriskaalaa:
 
-punainen
-keltainen
-sininen
-oranssi
-vihree
-pinkki
-musta
-valkoinen
-eikös siinä jotain skaalaa olekkin
+-punainen
+-keltainen
+-sininen
+-oranssi
+-vihree
+-pinkki
+-musta
+-valkoinen
+=eikös siinä jotain skaalaa olekkin
