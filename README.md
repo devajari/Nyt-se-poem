@@ -12,3 +12,4 @@ pinkki
 musta
 valkoinen
 eikös siinä jotain skaalaa olekkin
+eihä tässä ole etumerkkejä
